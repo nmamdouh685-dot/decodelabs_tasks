@@ -15,6 +15,6 @@ This project is a Python implementation of the **Caesar Cipher** encryption algo
    ```bash
    python caesar_cipher.py
    
-   👤 Author
+  ### 👤 Author 
 * **Name:** Nada Mamdouh
 * **Domain:** Cyber Security
