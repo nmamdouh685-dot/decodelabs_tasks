@@ -23,6 +23,9 @@ A Python tool that analyzes password security logic by validating length, charac
 - Version Control:** Git & GitHub
 
 ---
+### 👤 Author
+* **Name:** Nada Mamdouh
+* **Domain:** Cyber Security
 
  How to Run the Code
 1. Clone this repository or download `password_checker.py`.
