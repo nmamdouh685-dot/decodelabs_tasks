@@ -29,8 +29,9 @@ A Python tool that analyzes password security logic by validating length, charac
 3. Run the following command:
    ```bash
    python password_checker.py
-
-
    ### 👤 Author
 * **Name:** Nada Mamdouh
 * **Domain:** Cyber Security
+
+
+   
